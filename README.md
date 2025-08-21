@@ -73,7 +73,7 @@ I'm in the final stages of my computer science degree, diving deep into programm
   &emsp;
     <a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-%231679A7.svg?style=plastic&logo=wireshark&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="John the Ripper" src="https://img.shields.io/badge/John%20the%20Ripper-%23000000.svg?style=plastic&logo=john-the-ripper&logoColor=white"></a>
+   <a href="#"><img alt="John the Ripper" src="https://img.shields.io/badge/John%20the%20Ripper-8A2BE2.svg?style=plastic&logo=john-the-ripper&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="THC Hydra" src="https://img.shields.io/badge/THC%20Hydra-3572A5.svg?style=plastic&logo=thc-hydra&logoColor=white"></a>
   &emsp;
