@@ -6,9 +6,9 @@
 
 Computer Science Student | Aspiring Penetration Tester | Creative Problem-Solver
 
-I'm in the final stages of my computer science degree, diving deep into programming and cybersecurity—exploring how systems break and how to protect them. Currently sharpening my skills and looking for opportunities to grow in cybersecurity and software development.
+I'm in the final stages of my computer science degree, diving deep into programming and cybersecurity—exploring how systems break and how to protect them. Currently sharpening my skills through TryHackMe labs and looking for opportunities to grow in offensive security and ethical hacking.
 +  🔭  Open to cybersecurity internships or junior roles where I can apply my skills.
-- :computer: Currently building projects to strengthen my practical knowledge.
+- 🛡️ Actively learning and practicing on TryHackMe platform.
 
 ## 🛡️ TryHackMe Badge
 
