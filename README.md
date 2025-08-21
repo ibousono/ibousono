@@ -4,7 +4,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-Computer Science Student | Aspiring Cybersecurity Specialist | Creative Problem-Solver
+Computer Science Student | Aspiring Penetration Tester | Creative Problem-Solver
 
 I'm in the final stages of my computer science degree, diving deep into programming and cybersecurity—exploring how systems break and how to protect them. Currently sharpening my skills and looking for opportunities to grow in cybersecurity and software development.
 +  🔭  Open to cybersecurity internships or junior roles where I can apply my skills.
