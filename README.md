@@ -72,6 +72,10 @@ I'm in the final stages of my computer science degree, diving deep into programm
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/igna0213.png" alt="Your Image Badge" />
+	
+<p align="center">
+  <a href="https://tryhackme.com/p/igna0213" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/ignaciobousono.png" alt="TryHackMe">
+  </a>
+</p>
 
