@@ -75,6 +75,12 @@ I'm in the final stages of my computer science degree, diving deep into programm
   &emsp;
     <a href="#"><img alt="John the Ripper" src="https://img.shields.io/badge/John%20the%20Ripper-%23000000.svg?style=plastic&logo=john-the-ripper&logoColor=white"></a>
   &emsp;
+    <a href="#"><img alt="Hydra" src="https://img.shields.io/badge/THC%20Hydra-%23000000.svg?style=plastic&logo=thc-hydra&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Gobuster" src="https://img.shields.io/badge/Gobuster-%23000000.svg?style=plastic&logo=gobuster&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="SQLmap" src="https://img.shields.io/badge/SQLmap-%23000000.svg?style=plastic&logo=sqlmap&logoColor=white"></a>
+</p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
  
@@ -95,6 +101,9 @@ I'm in the final stages of my computer science degree, diving deep into programm
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=plastic&logo=kali-linux&logoColor=white"></a>
+</p>
 	
 
 
