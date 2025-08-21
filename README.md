@@ -15,7 +15,7 @@ I'm in the final stages of my computer science degree, diving deep into programm
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/igna0213.png" alt="TryHackMe Badge" />
   <br>
-  <sub><b>Mi progreso en TryHackMe - Actualizado automáticamente</b></sub>
+  <sub><b> My TryHackMe progress</b></sub>
 </p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
