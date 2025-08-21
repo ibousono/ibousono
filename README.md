@@ -73,4 +73,4 @@ I'm in the final stages of my computer science degree, diving deep into programm
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4804186" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/igna0213.png" alt="Your Image Badge" />
