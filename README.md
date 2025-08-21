@@ -75,7 +75,7 @@ I'm in the final stages of my computer science degree, diving deep into programm
   &emsp;
    <a href="#"><img alt="John the Ripper" src="https://img.shields.io/badge/🔑%20John%20the%20Ripper-8A2BE2.svg?style=plastic"></a>
   &emsp;
-     <a href="#"><img alt="THC Hydra" src="https://img.shields.io/badge/🐉%20THC%20Hydra-3572A5.svg?style=plastic"></a>
+     <a href="#"><img alt="Hydra" src="https://img.shields.io/badge/🐉%20Hydra-3572A5.svg?style=plastic"></a>
   &emsp;
     <a href="#"><img alt="Gobuster" src="https://img.shields.io/badge/Gobuster-00ADD8.svg?style=plastic&logo=go&logoColor=white"></a>
   &emsp;
