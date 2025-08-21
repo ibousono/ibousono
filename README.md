@@ -67,19 +67,19 @@ I'm in the final stages of my computer science degree, diving deep into programm
   &emsp;
     <a href="#"><img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-%23121011.svg?style=plastic&logo=metasploit&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Nmap" src="https://img.shields.io/badge/Nmap-%23CC3531.svg?style=plastic&logo=nmap&logoColor=white"></a>
+   <a href="#"><img alt="Nmap" src="https://img.shields.io/badge/🔍%20Nmap-CC3531.svg?style=plastic"></a>
   &emsp;
     <a href="#"><img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite-%23000000.svg?style=plastic&logo=burpsuite&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-%231679A7.svg?style=plastic&logo=wireshark&logoColor=white"></a>
   &emsp;
-   <a href="#"><img alt="John the Ripper" src="https://img.shields.io/badge/John%20the%20Ripper-8A2BE2.svg?style=plastic&logo=john-the-ripper&logoColor=white"></a>
+   <a href="#"><img alt="John the Ripper" src="https://img.shields.io/badge/🔑%20John%20the%20Ripper-8A2BE2.svg?style=plastic"></a>
   &emsp;
      <a href="#"><img alt="THC Hydra" src="https://img.shields.io/badge/🐉%20THC%20Hydra-3572A5.svg?style=plastic"></a>
   &emsp;
     <a href="#"><img alt="Gobuster" src="https://img.shields.io/badge/Gobuster-00ADD8.svg?style=plastic&logo=go&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="SQLmap" src="https://img.shields.io/badge/SQLmap-336791.svg?style=plastic&logo=databricks&logoColor=white"></a>
+    <a href="#"><img alt="SQLmap" src="https://img.shields.io/badge/💉%20SQLmap-336791.svg?style=plastic"></a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
