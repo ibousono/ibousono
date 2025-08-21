@@ -61,6 +61,21 @@ I'm in the final stages of my computer science degree, diving deep into programm
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
 </p>
 
+### 🔓 Pentesting Tools
+
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-%23121011.svg?style=plastic&logo=metasploit&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Nmap" src="https://img.shields.io/badge/Nmap-%23CC3531.svg?style=plastic&logo=nmap&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite-%23000000.svg?style=plastic&logo=burpsuite&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-%231679A7.svg?style=plastic&logo=wireshark&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="John the Ripper" src="https://img.shields.io/badge/John%20the%20Ripper-%23000000.svg?style=plastic&logo=john-the-ripper&logoColor=white"></a>
+  &emsp;
+
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
  
 <p align="center">
