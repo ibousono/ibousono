@@ -14,7 +14,6 @@ I'm in the final stages of my computer science degree, diving deep into programm
 
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/igna0213.png" alt="Your Image Badge" />
-
   <br>
   <sub><b> My TryHackMe progress - top 9% </b></sub>
 </p>
