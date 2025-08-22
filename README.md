@@ -14,7 +14,7 @@ I'm in the final stages of my computer science degree, diving deep into programm
 
 <p align="center">
   <a href="https://tryhackme.com/p/igna0213" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/igna0213.png" alt="TryHackMe badge" width="200" height="55">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/igna0213.png" alt="TryHackMe badge" width="300" height="55">
   </a>
   <br>
   <sub><b> My TryHackMe progress - top 9% </b></sub>
