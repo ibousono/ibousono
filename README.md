@@ -13,12 +13,45 @@ I'm in the final stages of my computer science degree, diving deep into programm
 ## 🛡️ TryHackMe Badge
 
 <p align="center">
+  <!-- Badge visual (puede estar desactualizado) -->
   <a href="https://tryhackme.com/p/igna0213" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/igna0213.png" alt="TryHackMe badge" width="300" height="100">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/igna0213.png" alt="TryHackMe badge" width="400" height="150">
   </a>
   <br>
-  <sub><b> My TryHackMe progress - top 9% </b></sub>
+  
+  <!-- Información actualizada mediante API -->
+  <sub><b>⏳ Última actualización: <span id="update-time">Cargando...</span></b></sub>
+  <br>
+  <sub><b>📊 Ranking: <span id="user-rank">Cargando...</span></b></sub>
+  <br>
+  <sub><b>🏆 Rooms completados: <span id="rooms-completed">Cargando...</span></b></sub>
 </p>
+
+<script>
+// Función para obtener datos actualizados de TryHackMe
+async function fetchTHMStats() {
+  try {
+    const response = await fetch('https://tryhackme.com/api/v2/public-players?username=igna0213');
+    const data = await response.json();
+    
+    if (data.success && data.data && data.data.length > 0) {
+      const userData = data.data[0];
+      
+      // Actualizar los elementos con los datos obtenidos
+      document.getElementById('user-rank').textContent = `#${userData.rank}`;
+      document.getElementById('rooms-completed').textContent = userData.roomsCompleted;
+      document.getElementById('update-time').textContent = new Date().toLocaleString();
+    }
+  } catch (error) {
+    console.error('Error fetching TryHackMe data:', error);
+    document.getElementById('user-rank').textContent = 'Error al cargar';
+    document.getElementById('rooms-completed').textContent = 'Error al cargar';
+  }
+}
+
+// Ejecutar cuando la página cargue
+document.addEventListener('DOMContentLoaded', fetchTHMStats);
+</script>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
