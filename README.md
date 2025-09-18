@@ -15,7 +15,7 @@ I'm in the final stages of my computer science degree, diving deep into programm
 <p align="center">
  
   <br>
-  <sub><b> My TryHackMe progress - top 7% </b></sub>
+  <sub><b> My TryHackMe progress - top 5% </b></sub>
 </p>
 
 
