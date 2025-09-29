@@ -13,7 +13,7 @@ I'm in the final stages of my computer science degree, diving deep into programm
 ## 🛡️ TryHackMe Badge
 
 <p align="center">
-  <img src="https://shields.io/tryhackme/igna0213?label=TryHackMe&style=for-the-badge&color=red" alt="TryHackMe">
+  <img src="https://shields.io/tryhackme/p/igna0213?label=TryHackMe&style=for-the-badge&color=red" alt="TryHackMe">
   <br>
   <sub><b> My TryHackMe progress - top 5% </b></sub>
 </p>
