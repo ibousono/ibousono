@@ -13,7 +13,7 @@ I'm in the final stages of my computer science degree, diving deep into programm
 ## 🛡️ TryHackMe Badge
 
 <p align="center">
-    <img src="https://tryhackme.com/p/igna0213/badge" alt="TryHackMe">
+   <img width="325" height="81" alt="image" src="https://github.com/ibousono/ibousono/blob/main/Captura%20de%20pantalla%202025-09-29%20085021.png" />
   <br>
   <sub><b> My TryHackMe progress - top 5% </b></sub>
 </p>
